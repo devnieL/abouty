@@ -1,0 +1,1 @@
+Trabajo para el curso de Sistmas de Inteligencia Empresarial.
